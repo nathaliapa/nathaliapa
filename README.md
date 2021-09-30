@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a> 
   <a href = "mailto:nathalia2051@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
   <a href="https://www.linkedin.com/in/nathalia-da-cunha-paulino-19a1871a4/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target =" _ blank "> </a> 
-  <a href="tel:+5514997445613" target="_blank"> <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a> 
+
  
   ! [ Animação de cobra ] (https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
