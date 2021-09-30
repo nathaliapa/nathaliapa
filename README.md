@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img align = "center" alt = "Nath-Dart" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+ <img align = "center" alt = "Nath-Dart" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align = "center" alt = "Nath-JS" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
